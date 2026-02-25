@@ -18,13 +18,7 @@ If you find this work helpful, please cite our [paper]():
 }
 ```
 
-##🔬 Research Context
-REFLECT was developed as part of ongoing research in:
-Industrial cybersecurity
-Control traffic anomaly detection
-Resilient factory systems
-Secure cyber-physical infrastructures
-The framework will continue to evolve with additional features, datasets, and evaluation scenarios.
+
 ## 🛠 Development Status
 The project is under active development.
 New modules, documentation, and examples will be continuously added.
